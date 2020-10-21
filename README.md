@@ -3,7 +3,7 @@ align="center" width="800" height="auto">][2]
 
 ## Anaka Norfleet
 
-:shipit:I am a software developer who is currently honing my skills in Java/React/Docker. I am seeking a jr. software developer position.
+:shipit: Full Stack Software Developer who is currently honing my skills in Java/React/Docker. I am seeking a jr. software developer position.
 
 
 
