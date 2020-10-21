@@ -1,5 +1,5 @@
 [<img src="https://i.imgur.com/IdbnPoJ.png" 
-align="center" width="1200" height="auto">][2]
+align="center" width="800" height="auto">][2]
 
 ## Anaka Norfleet:
 
@@ -14,4 +14,4 @@ I am a software developer who is currently honing my skills in Java/React/Docker
 
 [1]: https://linkedin.com/in/fleetster22
 [2]: mailto:anakanorfleet@gmail.com
-[3]: https://confluencebusinessolutions.com
+[3]: https://fleetster22.github.io/portfolio/.
