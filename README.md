@@ -1,16 +1,17 @@
-### Hi there 👋
+[<img src="Mando6.png" 
+align="center" width="1200" height="auto">][2]
 
-<!--
-**fleetster22/fleetster22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Anaka Norfleet:
 
-Here are some ideas to get you started:
+🌌
+I am a software developer who is currently honing my skills in Java/React/Docker. I am seeking a jr. software developer position.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##More Info
+
+- [Email][2]
+- [Website][3]
+- [LinkedIn][1]
+
+[1]: https://linkedin.com/in/fleetster22
+[2]: mailto:anakanorfleet@gmail.com
+[3]: https://confluencebusinessolutions.com
