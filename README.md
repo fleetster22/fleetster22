@@ -6,7 +6,7 @@ align="center" width="1200" height="auto">][2]
 🌌
 I am a software developer who is currently honing my skills in Java/React/Docker. I am seeking a jr. software developer position.
 
-##More Info
+## More Info
 
 - [Email][2]
 - [Website][3]
