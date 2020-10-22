@@ -1,4 +1,4 @@
-[<img src="Mando6.png" 
+[<img src="https://i.imgur.com/inqtF7H.png" 
 align="center" width="1200" height="auto">][2]
 
 ## Anaka Norfleet:
