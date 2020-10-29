@@ -13,6 +13,10 @@ Full Stack Software Developer who is currently honing my skills in Java/React/my
 💻 - [Website][3] <br />
 💁 - [LinkedIn][1]
 
+<script type="text/javascript" src="http://platform.linkedin.com/in.js"></script>
+
+<script type="IN/Wizard" size="large"></script>
+
 [1]: https://linkedin.com/in/fleetster22
 [2]: mailto:anakanorfleet@gmail.com
 [3]: https://fleetster22.github.io/portfolio/.
