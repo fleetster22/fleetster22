@@ -1,13 +1,19 @@
-[<img src="https://i.imgur.com/inqtF7H.png" 
-align="center" width="800" height="auto">][2]
+![fractal image using mandelbrot](Mando1.png)
 
-# Anaka Norfleet🌄
+# 🌀 Anaka Norfleet 🌀
 
-Full Stack Software Developer who is currently honing my skills in Java/React/mySql/mongoDB/Docker. I am seeking a jr. software developer position.
+Software Engineer with experience using Java, Javascript, React, mongoDB, mySql and AWS. Cybersecurity and creating secure apps are my passion. I am seeking a jr. software developer position with a company where the culture is a focus on continuing education and advancement from within.
 
-❓❓ Please contact me with any ❓❓
+#### ❓❓ Please contact me with any ❓❓
 
-## More Info
+---
+
+<br />
+<div align="center">
+
+## Links for More Info
+
+<br />
 
 📬 - [Email][2] <br />
 💻 - [Website][3] <br />
@@ -16,3 +22,5 @@ Full Stack Software Developer who is currently honing my skills in Java/React/my
 [1]: https://linkedin.com/in/fleetster22
 [2]: mailto:anakanorfleet@gmail.com
 [3]: https://fleetster22.github.io/portfolio/.
+
+</div>
