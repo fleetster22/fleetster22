@@ -1,8 +1,8 @@
 <p align="center">
   <img width="660" height="500" src="Mando1.png">
 </p>
-     
-
+<br />     
+<br />
 
 # 🌀 Anaka Norfleet 🌀
 
