@@ -8,7 +8,7 @@
 
 
 
-Software Engineer with experience using Java, Javascript, React, mongoDB, mySql and AWS. Cybersecurity and creating secure apps are my passion. I am seeking a jr. software developer position with a company where the culture is a focus on continuing education and advancement from within.
+Software Engineer with experience using Java, Javascript, React, mongoDB, mySql and AWS. Cybersecurity and creating secure apps are my passion. I am seeking a jr. software developer position with a company where the culture is a focus on continuing education and advancement from within. CompTIA Sec+ certification.
 
 #### ❓❓ Please contact me with any questions❓❓
 
