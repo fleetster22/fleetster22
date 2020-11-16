@@ -8,7 +8,7 @@
 
 
 
-Software Engineer with experience using Java, Javascript, React, mongoDB, mySql and AWS. Cybersecurity and creating secure apps are my passion. I am seeking a jr. software developer position with a company where the culture is a focus on continuing education and advancement from within. CompTIA Sec+ certification.
+Jr Software Engineer with experience using Java, Javascript, React, Docker, mySql and AWS. My passion, however, lies in PenTesting, so if you're more focused on the creation of secure websits and apps, then look no further. I am seeking a jr. software developer position with a company where the culture is a focus on continuing education and advancement from within because I do not plan on staying Jr level for very long. CompTIA Network+ and Sec+ certifications. Currently focusing more on Python and preparation for the OSCP certification.
 
 #### ❓❓ Please contact me with any questions❓❓
 
