@@ -1,16 +1,35 @@
-<p align="center">
-  <img width="660" height="500" src="Mando1.png">
-</p>
-<br />     
-<br />
+![SOC Analyst image](AnakaSOC.jpg)
 
 # 🌀 Anaka Norfleet 🌀
 
+## Passions and Hobbies:
 
-:snake: 🐧 ☕  :octocat:
-Computer professional with experience using Python, Javascript, React, Linux, Java, mySql and Github. My passion, however, lies in security, so if you're more focused on the creation of secure websites and apps or you need a junior level red teamer, then look no further. I am seeking a jr. penetration tester position with a company where the culture rewards continuing education and advancement from within because I do not plan on staying Jr level for very long. CompTIA Network+ and Security+ certifications. Currently focusing on learning intermediate Python and CTF competitions. My 5 year plan includes preparation for the OSCP certification and advancing to higher level penetration testing positions.:computer: :unlock:
+- Hacking
+- Ultrarunning
+- My 3 doggos
+- Travel
 
-#### ❓❓ Please contact me with any questions❓❓
+I am seeking a jr. cybersecurity position with a company where the culture has a focus on continuing education and advancement from within.
+
+I'm looking to collaborate wth others to learn, grow and improve security knowledge and skills.
+<br />
+<br />
+
+## What I'm currently learning/working on:
+
+Python and Practical Ethical Hacking [Udemy Courses][4] <br />
+Holiday Hack Challenge 2020 [KringleCon][5] <br />
+[TryHackMe][6] <br />
+
+### Skills
+
+- Python
+- Linux
+- Java
+- Javascript
+- mySQL
+- CompTIA Network+
+- CompTIA Security+
 
 ---
 
@@ -19,6 +38,8 @@ Computer professional with experience using Python, Javascript, React, Linux, Ja
 
 ## Links for More Info
 
+<br />
+
 📬 - [Email][2] <br />
 💻 - [Website][3] <br />
 💁 - [LinkedIn][1]
@@ -26,5 +47,8 @@ Computer professional with experience using Python, Javascript, React, Linux, Ja
 [1]: https://linkedin.com/in/fleetster22
 [2]: mailto:anakanorfleet@gmail.com
 [3]: https://fleetster22.github.io/portfolio/.
+[4]: https://www.udemy.com/
+[5]: https://kringlecon.com/%E2%9D%84%F0%9F%8E%81%E2%9B%84%F0%9F%8E%84%F0%9F%8E%85%E2%9D%84
+[6]: https://tryhackme.com/login
 
 </div>
