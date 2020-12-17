@@ -1,4 +1,4 @@
-![SOC Analyst image](AnakaSOC.jpg)
+![Security Analyst image](background.png)
 
 # 🌀 Anaka Norfleet 🌀
 
