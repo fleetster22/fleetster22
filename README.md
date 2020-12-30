@@ -24,10 +24,10 @@ Holiday Hack Challenge 2020 [KringleCon][5] <br />
 ### Skills
 
 - Python
-- Linux
-- Java
+- Kali Linux
+- Networking
 - Javascript
-- mySQL
+- Bash
 - CompTIA Network+
 - CompTIA Security+
 
