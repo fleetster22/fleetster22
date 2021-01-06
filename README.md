@@ -20,7 +20,7 @@ I'm looking to collaborate wth others to learn, grow and improve security knowle
 Python and Practical Ethical Hacking [Udemy Courses][4] <br />
 Holiday Hack Challenge 2020 [KringleCon][5] <br />
 [TryHackMe][6] <br />
-[Overthewire/wargames][7]
+Overthewire [Wargames][7]
 
 ### Skills
 
@@ -50,7 +50,7 @@ Holiday Hack Challenge 2020 [KringleCon][5] <br />
 [3]: https://fleetster22.github.io/portfolio/.
 [4]: https://www.udemy.com/
 [5]: https://kringlecon.com/%E2%9D%84%F0%9F%8E%81%E2%9B%84%F0%9F%8E%84%F0%9F%8E%85%E2%9D%84
-[6]: https://tryhackme.com/login
+[6]: https://tryhackme.com/p/fleetster
 [7]: https://overthewire.org/wargames/
 
 </div>
