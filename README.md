@@ -1,28 +1,27 @@
 ![Security Analyst image](background.png)
+<br />
 
-# 🌀 Anaka Norfleet 🌀
-
-## Passions and Hobbies:
+## <span style="color:indianred">Passions and Hobbies:</span> 🏆
 
 - Hacking
 - Ultrarunning
 - My 3 doggos
 - Travel
 
-I am seeking a jr. cybersecurity position with a company where the culture has a focus on continuing education and advancement from within.
+I am a cybersecurity professional with a passion for lifelong learning and helping people.
 
-I'm looking to collaborate wth others to learn, grow and improve security knowledge and skills.
+I'm looking to collaborate wth others who also want to learn, grow and improve their security knowledge and skills.
 <br />
 <br />
 
-## What I'm currently learning/working on:
+## <span style="color:indianred">2021 Goals:</span> 🤓
 
 Python and Practical Ethical Hacking [Udemy Courses][4] <br />
 Holiday Hack Challenge 2020 [KringleCon][5] <br />
 [TryHackMe][6] <br />
 Overthewire [Wargames][7]
 
-### Skills
+## <span style="color:indianred">Skills:</span>
 
 - Python
 - Kali Linux
