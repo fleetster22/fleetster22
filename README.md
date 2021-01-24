@@ -31,7 +31,7 @@ Overthewire [Wargames][7]
 - CompTIA Network+
 - CompTIA Security+
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/fleetster.png" alt="TryHackMe">
+ <img src="https://tryhackme-badges.s3.amazonaws.com/fleetster.png" alt="TryHackMe">
 
 ---
 
