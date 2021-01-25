@@ -29,9 +29,9 @@ Linux+ Certification
 - Javascript
 - Bash
 - CompTIA Network+
-- CompTIA Security+
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/fleetster.png" alt="TryHackMe">
+- CompTIA Security+ <br />
+  <br />
+  <img src="tryhackmebadge.png" alt="TryHackMe">
 
 ---
 
