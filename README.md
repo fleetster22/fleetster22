@@ -16,10 +16,10 @@ I'm looking to collaborate wth others who also want to learn, grow and improve t
 
 ## <span style="color:indianred">2021 Goals:</span> 🤓
 
-Python and Practical Ethical Hacking [Udemy Courses][4] <br />
-Holiday Hack Challenge 2020 [KringleCon][5] <br />
-[TryHackMe][6] <br />
-Overthewire [Wargames][7]
+Complete Python and Practical Ethical Hacking [Udemy Courses][4] <br />
+Top 1000 [TryHackMe][5] <br />
+Complete Overthewire Bandit [Wargames][6] <br />
+Linux+ Certification
 
 ## <span style="color:indianred">Skills:</span>
 
@@ -31,7 +31,7 @@ Overthewire [Wargames][7]
 - CompTIA Network+
 - CompTIA Security+
 
- <img src="https://tryhackme-badges.s3.amazonaws.com/fleetster.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/fleetster.png" alt="TryHackMe">
 
 ---
 
@@ -50,8 +50,7 @@ Overthewire [Wargames][7]
 [2]: mailto:anakanorfleet@gmail.com
 [3]: https://fleetster22.github.io/portfolio/.
 [4]: https://www.udemy.com/
-[5]: https://kringlecon.com/%E2%9D%84%F0%9F%8E%81%E2%9B%84%F0%9F%8E%84%F0%9F%8E%85%E2%9D%84
-[6]: https://tryhackme.com/p/fleetster
-[7]: https://overthewire.org/wargames/
+[5]: https://tryhackme.com/p/fleetster
+[6]: https://overthewire.org/wargames/
 
 </div>
