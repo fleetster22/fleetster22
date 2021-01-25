@@ -20,14 +20,14 @@ Complete Python and Practical Ethical Hacking [Udemy Courses][4] <br />
 Top 1000 [TryHackMe][5] <br />
 Complete Overthewire Bandit [Wargames][6] <br />
 Linux+ Certification
+Add Walkthroughs/Blog to Website
+Thru-Hike Appalachian Trail
 
 ## <span style="color:indianred">Skills:</span>
 
 - Python
-- Kali Linux
+- Kali Linux Tools
 - Networking
-- Javascript
-- Bash
 - CompTIA Network+
 - CompTIA Security+ <br />
   <br />
