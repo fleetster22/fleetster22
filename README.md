@@ -16,22 +16,27 @@ I'm looking to collaborate wth others who also want to learn, grow and improve t
 
 ## <span style="color:indianred">2021 Goals:</span> 🤓
 
-Complete Python and Practical Ethical Hacking [Udemy Courses][4] <br />
-Top 1000 [TryHackMe][5] <br />
+Complete Practical Ethical Hacking [Udemy Course][4] <br />
+Rank in Top 2000 [TryHackMe][5] <br />
 Complete Overthewire Bandit [Wargames][6] <br />
-Linux+ Certification
-Add Walkthroughs/Blog to Website
-Thru-Hike Appalachian Trail
+[PentesterLab][7] Introduction, Unix, Essential, PCAP and White Badges <br />
+CompTIA Linux+ Certification<br />
+Add Walkthroughs/Blog to Website <br />
+Give Back to Community <br />
+IT job <br />
+Complete BS in Cybersecurity Spring 2022 <br />
+
 
 ## <span style="color:indianred">Skills:</span>
 
-- Python
+- CTF challenges
+- OSINT
 - Kali Linux Tools
 - Networking
 - CompTIA Network+
 - CompTIA Security+ <br />
   <br />
-  <img src="https://tryhackme-badges.s3.amazonaws.com/fleetster.png" alt="TryHackMe">
+  <img src="thm.png" alt="TryHackMe">
 
 
 ---
@@ -53,5 +58,6 @@ Thru-Hike Appalachian Trail
 [4]: https://www.udemy.com/
 [5]: https://tryhackme.com/p/fleetster
 [6]: https://overthewire.org/wargames/
+[7]: https://pentesterlab.com/my/progress
 
 </div>
