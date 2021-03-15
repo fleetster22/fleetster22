@@ -31,7 +31,8 @@ Thru-Hike Appalachian Trail
 - CompTIA Network+
 - CompTIA Security+ <br />
   <br />
-  <img src="tryhackmebadge.png" alt="TryHackMe">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/fleetster.png" alt="TryHackMe">
+
 
 ---
 
