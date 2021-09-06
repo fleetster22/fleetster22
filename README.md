@@ -5,7 +5,7 @@
 
 - Hacking
 - Ultrarunning
-- My 3 doggos
+- My 3 doggos, cat, betta fish, 4 goats, 20 chickens, 4 pigs, 1 turkey  #hobbyfarmlife
 - Travel
 
 I am a cybersecurity professional with a passion for lifelong learning and helping people.
@@ -24,15 +24,13 @@ CompTIA Linux+ Certification<br />
 Add Walkthroughs/Blog to Website <br />
 Give Back to Community <br />
 IT job <br />
-Complete BS in Cybersecurity Spring 2022 <br />
+Complete BS in Cybersecurity Fall 2022 <br />
 
 
-## <span style="color:indianred">Skills:</span>
+## <span style="color:indianred">Skills and Certifications:</span>
 
 - CTF challenges
-- OSINT
-- Kali Linux Tools
-- Networking
+- OSINT with TraceLabs
 - CompTIA Network+
 - CompTIA Security+ 
 - CompTIA A+
