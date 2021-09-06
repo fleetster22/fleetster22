@@ -34,7 +34,10 @@ Complete BS in Cybersecurity Spring 2022 <br />
 - Kali Linux Tools
 - Networking
 - CompTIA Network+
-- CompTIA Security+ <br />
+- CompTIA Security+ 
+- CompTIA A+
+- CompTIA PenTest+
+- ITIL<br />
   <br />
   <img src="thm.png" alt="TryHackMe">
 
