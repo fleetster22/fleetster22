@@ -5,12 +5,14 @@
 
 - Hacking
 - Ultrarunning
-- My 3 doggos, cat, betta fish, 4 goats, 20 chickens, 1 turkey  #hobbyfarmlife
+- Our small family farm eats up most of my free time. We have chickens, turkeys, and goats presently. Hoping to have our field ready for a cow next spring.
 - Travel
 
-I am a software developer with a passion for lifelong learning and helping people.
+I am a software developer, primarily Java, as well as a website developer. I am attending WGU pursuing a Bachelors degree in Software Development. 
 
-I'm looking to collaborate wth others who also want to learn, grow and improve their coding knowledge and skills.
+I'm looking to collaborate wth others who also want to learn, grow and improve their coding knowledge and skills. One day I hope to be a mentor to girls interested in coding.
+
+My wife and I would love to become foster parents very soon.
 <br />
 <br />
 
@@ -19,6 +21,7 @@ I'm looking to collaborate wth others who also want to learn, grow and improve t
 100 Days of Coding <br />
 Complete 2 beginner Java apps/games <br />
 IT job <br />
+At least 3 certifications <br />
 Complete BS in Software Development Fall 2022 <br />
 
 
