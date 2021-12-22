@@ -1,7 +1,7 @@
-<div align="center">[title] Anaka Norfleet
+# <div align="center">Anaka Norfleet
 <br />
 
-## <span style="color:indianred">Passions and Hobbies:</span> 🏆
+## :mountain: Passions and Hobbies: :woman_farmer:
 
 - Hacking
 - Ultrarunning
@@ -16,7 +16,7 @@ My wife and I would love to become foster parents very soon.
 <br />
 <br />
 
-## <span style="color:indianred">2021 Goals:</span> 🤓
+## 2021 Goals: 🤓
 
 100 Days of Coding <br />
 Complete 2 beginner Java apps/games <br />
@@ -25,7 +25,7 @@ At least 3 certifications <br />
 Complete BS in Software Development Fall 2022 <br />
 
 
-## <span style="color:indianred">Skills and Certifications:</span>
+## Skills and Certifications:
 
 - CTF challenges
 - OSINT with TraceLabs
