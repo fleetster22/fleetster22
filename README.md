@@ -12,17 +12,20 @@ I am a software developer, primarily Java, as well as a website developer. I am 
 
 I'm looking to collaborate wth others who also want to learn, grow and improve their coding knowledge and skills. One day I hope to be a mentor to girls interested in coding.
 
-My wife and I would love to become foster parents very soon.
+My wife and I are in training to become foster parents.
 <br />
 <br />
 
-## 2021 Goals: 🤓
+## 2022 Goals: 🤓
 
 100 Days of Coding <br />
 Complete 2 beginner Java apps/games <br />
-IT job <br />
-At least 3 certifications <br />
-Complete BS in Software Development Fall 2022 <br />
+Software Development job <br />
+Participate in a hackathon <br />
+Attend Software Development event <br />
+Redesign website <br />
+Learn and practice game development <br />
+Complete BS in Software Development Winter 2022 <br />
 
 
 ## Skills and Certifications:
