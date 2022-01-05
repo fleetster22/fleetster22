@@ -1,3 +1,4 @@
+
 # <div align="center">Anaka Norfleet
 <br />
 
@@ -7,6 +8,7 @@
 - Ultrarunning
 - Our small family farm eats up most of my free time. We have chickens, turkeys, and goats presently. Hoping to have our field ready for a cow next spring.
 - Travel
+- Indie Game Dev
 
 I am a software developer, primarily Java, as well as a website developer. I am attending WGU pursuing a Bachelors degree in Software Development. 
 
@@ -15,20 +17,8 @@ I'm looking to collaborate wth others who also want to learn, grow and improve t
 My wife and I are in training to become foster parents.
 <br />
 <br />
-
-## 2022 Goals: 🤓
-
-100 Days of Coding <br />
-Complete 2 beginner Java apps/games <br />
-Software Development job <br />
-Participate in a hackathon <br />
-Attend Software Development event <br />
-Redesign website <br />
-Learn and practice game development <br />
-Complete BS in Software Development Winter 2022 <br />
-
-
-## Skills and Certifications:
+ 
+ ## Skills and Certifications:
 
 - CTF challenges
 - OSINT with TraceLabs
@@ -38,6 +28,21 @@ Complete BS in Software Development Winter 2022 <br />
 - CompTIA PenTest+
 - CompTIA Project+
 - ITIL<br />
+
+## 2022 Goals: 🤓
+ 
+```diff
+- 100 Days of Coding <br />
+- Complete 2 beginner Java apps/games <br />
+- Software Development job <br />
+- Participate in a hackathon <br />
+- Attend Software Development event <br />
+- Redesign website <br />
+- Learn and practice game development <br />
+- Complete BS in Software Development Winter 2022 <br />
+```
+
+
  
 ---
 
