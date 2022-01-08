@@ -1,7 +1,10 @@
+<div align="center">
+<img src="https://confluencebusinessolutions.com/wp-content/uploads/2022/01/buddha.jpg" width=700 height=422>
 
-# <div align="center">Anaka Norfleet
+# Anaka Norfleet
 <br />
-
+</div>
+ 
 ## :mountain: Passions and Hobbies: :woman_farmer:
 
  - Indie Game Dev
@@ -61,4 +64,4 @@ My wife and I are in training to become foster parents.
 [2]: mailto:anakanorfleet@gmail.com
 [3]: https://fleetster22.github.io/portfolio/.
 
-</div>
+
