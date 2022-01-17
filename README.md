@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://confluencebusinessolutions.com/wp-content/uploads/2022/01/buddha.jpg" width=700 height=422>
+<img src="https://confluencebusinessolutions.com/wp-content/uploads/2022/01/balance.jpg" width=700 height=422 alt = "balance">
 
 # Anaka Norfleet
 <br />
