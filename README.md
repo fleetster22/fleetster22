@@ -7,18 +7,18 @@
  
 ## :mountain: Passions and Hobbies: :woman_farmer:
 
- - Indie Game Dev
+- Indie Game Dev
 - Hacking
 - Ultrarunning
 - Our small family farm eats up most of my free time. We have chickens, turkeys, and goats presently. Hoping to have our field ready for a cow next spring.
 - Travel
 
 
-I am a software developer, primarily Java and a little C++, with a keen interest in indie game dev. There just aren't enough hours in the day to do everything I want. I am currently attending WGU pursuing a Bachelors degree in Software Development. 
+I am a software developer, primarily Python, with an interest in bbuilding apps and APIs for small business owners. There just aren't enough hours in the day to do everything I want. I am currently attending WGU pursuing a Bachelors degree in Software Development. 
 
 I'm looking to collaborate wth others who also want to learn, grow and improve their coding knowledge and skills. One day I hope to be a mentor to girls interested in coding.
 
-My wife and I are in training to become foster parents.
+My wife and I just became licensed foster parents.
 <br />
 <br />
  
@@ -40,7 +40,7 @@ My wife and I are in training to become foster parents.
 - Complete 2 beginner apps/games <br />
 - Software Development job <br />
 - Participate in 2-4 hackathons <br />
-- Attend Software Development/Cybersecurity/Game Dev event <br />
+- Attend Software Development/Cybersecurity event <br />
 - Redesign website and publish it <br />
 - Complete junior year of Software Development program Winter 2022 <br />
 ```
