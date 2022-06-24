@@ -14,11 +14,13 @@
 - Travel
 
 
-I am a software developer, primarily Python, with an interest in bbuilding apps and APIs for small business owners. There just aren't enough hours in the day to do everything I want. I am currently attending WGU pursuing a Bachelors degree in Software Development. 
+I am a software developer, primarily Python and Java, interested in working for a company on an Agile team. There just aren't enough hours in the day to do everything I want. When I'm coding, how can hours go by in what seems like seconds and the next thing you know I have greasy hair, fuzzy teeth and I'm starving? 
 
 I'm looking to collaborate wth others who also want to learn, grow and improve their coding knowledge and skills. One day I hope to be a mentor to girls interested in coding.
 
-My wife and I just became licensed foster parents.
+The second half of this year, I am going to participate in more meetup goups. I need to surround myself with like-minded people.
+
+My wife and I just became licensed foster parents and are looking forward to opening our home to youth in need.
 <br />
 <br />
  
@@ -42,7 +44,6 @@ My wife and I just became licensed foster parents.
 - Participate in 2-4 hackathons <br />
 - Attend Software Development/Cybersecurity event <br />
 - Redesign website and publish it <br />
-- Complete junior year of Software Development program Winter 2022 <br />
 ```
 
 
