@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[https://confluencebusinessolutions.com/wp-content/uploads/2022/11/leftandrightbrain.jpg]" width=700 height=422 alt = "balance">
+<img src="[https://confluencebusinessolutions.com/wp-content/uploads/2022/11/leftandrightbrain.jpg]" width=800 height=622 alt = "leftandrightbrain">
 
 # Anaka Norfleet
 <br />
