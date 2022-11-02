@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[https://confluencebusinessolutions.com/wp-content/uploads/2022/11/leftandrightbrain.jpg]" width=800 height=622 alt = "leftandrightbrain">
+<img src = "https://user-images.githubusercontent.com/58215141/199598263-f253c515-144a-46f8-aeaa-f1332bbba509.jpg" alt="left and right brain art" width= "360px">
 
 # Anaka Norfleet
 <br />
