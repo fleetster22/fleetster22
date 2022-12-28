@@ -11,11 +11,11 @@
 - Web App Development
 - Hacking
 - Ultrarunning
-- Our small family farm eats up most of my free time. We have chickens, turkeys, and goats presently. 
+- Our small family farm eats up most of my free time. We have chickens, turkeys, alpaca and goats presently. 
 - Travel
 
 
-I am a software developer, primarily Python and Java, interested in working for a company on an Agile team. There just aren't enough hours in the day to do everything I want. I wonder how long I can code on a burrito and a 20 oz Cherry Coke?
+I am a junior Java software developer, interested in working for a company on an Agile team. There just aren't enough hours in the day to do everything I want. I wonder how long I can code on one burrito and a 20 oz Cherry Coke?
 
 I'm looking to collaborate wth others who also want to learn, grow and improve their coding knowledge and skills. One day I hope to be a mentor to girls interested in coding.
 
