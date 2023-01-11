@@ -8,9 +8,9 @@
 ## :mountain: Passions and Hobbies: 🐾
 
 - First and foremost, I am a foster parent.
-- Web App Development
+- Reading
 - Hacking
-- Ultrarunning
+- Trail running / Mountain Biking
 - We have a small family farm with chickens, turkeys, an alpaca and 4 goats presently. 
 - Travel
 
