@@ -5,7 +5,7 @@
 <br />
 </div>
  
-## :mountain: Passions and Hobbies: :woman_farmer:
+## :mountain: Passions and Hobbies: 🐾
 
 - First and foremost, I am a foster parent.
 - Web App Development
