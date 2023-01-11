@@ -15,9 +15,11 @@
 - Travel
 
 
-I am a junior Java software developer interested in working for a company on an Agile team. There just aren't enough hours in the day to do everything I want. I wonder how long I can code on one burrito and a 20 oz Cherry Coke?
+I am a junior Java software developer interested in working for a company as part of a team. I am most interested in Application Development. 
+To gain more experience, I'm looking to contribute on open source projects. One day I hope to be a mentor to girls interested in STEM.
 
-I'm looking to collaborate wth others who also want to learn, grow and improve their coding knowledge and skills. One day I hope to be a mentor to girls interested in coding.
+Random Thoughts: There just aren't enough hours in the day to do everything I want. I wonder how long I can code on one burrito and a 20 oz Cherry Coke?
+
 
 <br />
 <br />
