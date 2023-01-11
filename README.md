@@ -26,14 +26,15 @@ Random Thoughts: There just aren't enough hours in the day to do everything I wa
  
  ## Skills and Certifications:
 
- -OOP
+- OOP
 - OSINT with TraceLabs
 - CompTIA Network+
 - CompTIA Security+ 
 - CompTIA A+
 - CompTIA PenTest+
 - CompTIA Project+
-- ITIL<br />
+- ITIL
+- Java<br />
 
 ## 2023 Goals: 🤓
  
