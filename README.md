@@ -26,7 +26,7 @@ Random Thoughts: There just aren't enough hours in the day to do everything I wa
  
  ## Skills and Certifications:
 
-- OOP
+- Python
 - OSINT with TraceLabs
 - CompTIA Network+
 - CompTIA Security+ 
