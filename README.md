@@ -11,7 +11,6 @@
 - Reading Nonfiction
 - Hacking
 - Trail running / Mountain Biking
-- We have a small family farm with chickens, turkeys, an alpaca and 4 goats presently. 
 - Travel
 
 
@@ -27,14 +26,13 @@ Random Thoughts: There just aren't enough hours in the day to do everything I wa
  ## Skills and Certifications:
 
 - Python
-- OSINT with TraceLabs
-- CompTIA Network+
-- CompTIA Security+ 
-- CompTIA A+
-- CompTIA PenTest+
-- CompTIA Project+
-- ITIL
-- Java<br />
+- Django
+- React.js
+- Docker 
+- Javascript
+- PostgreSQL
+- MongoDB
+- FastAPI <br />
 
 ## 2023 Goals: 🤓
  
@@ -45,7 +43,6 @@ Random Thoughts: There just aren't enough hours in the day to do everything I wa
 - Software Engineer job 
 - Participate in 2 hackathons 
 - Attend Software Development/Cybersecurity event
-- Trail running with a donkey/mule/pony
 ```
 
 
