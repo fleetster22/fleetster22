@@ -32,17 +32,18 @@ Random Thoughts: There just aren't enough hours in the day to do everything I wa
 - Javascript
 - PostgreSQL
 - MongoDB
-- FastAPI <br />
+- FastAPI
+- AWS <br />
 
 ## 2023 Goals: 🤓
  
 ```diff
 - Advent of Code
-- 100 Days of Coding 
-- Complete 2 apps/games 
+- 100 Days of Coding :heavy_check_mark:
+- Complete 2 apps/games :heavy_check_mark:
 - Software Engineer job 
-- Participate in 2 hackathons 
-- Attend Software Development/Cybersecurity event
+- Participate in 2 hackathons :heavy_check_mark:
+- Attend Software Development/Cybersecurity event :heavy_check_mark:
 ```
 
 
