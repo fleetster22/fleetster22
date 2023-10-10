@@ -39,11 +39,11 @@ Random Thoughts: There just aren't enough hours in the day to do everything I wa
  
 ```diff
 - Advent of Code
-- 100 Days of Coding :heavy_check_mark:
-- Complete 2 apps/games :heavy_check_mark:
+- 100 Days of Coding 
+- Complete 2 apps/games 
 - Software Engineer job 
-- Participate in 2 hackathons :heavy_check_mark:
-- Attend Software Development/Cybersecurity event :heavy_check_mark:
+- Participate in 2 hackathons
+- Attend Software Development/Cybersecurity event
 ```
 
 
