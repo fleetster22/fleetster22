@@ -14,10 +14,7 @@
 - Travel
 
 
-I am a junior Python programmer interested in working for a company as part of a team. I am most interested in Application and API Development. 
-To gain more experience, I'm looking to contribute on open source projects. One day I hope to be a mentor to girls interested in STEM.
-
-Random Thoughts: There just aren't enough hours in the day to do everything I want. I wonder how long I can code on one burrito and a 20 oz Cherry Coke?
+Offensive cybersecurity specialist with a focus on web application vulnerabilities. I specialize in identifying and exploiting security flaws to enhance system robustness. Passionate about ethical hacking, red teaming, and continuously improving web security through advanced penetration testing techniques. Always eager to collaborate on security research and contribute to open-source projects.
 
 
 <br />
@@ -26,24 +23,23 @@ Random Thoughts: There just aren't enough hours in the day to do everything I wa
  ## Skills and Certifications:
 
 - Python
-- Django
-- React.js
+- Ethical Hacking
+- OWASP
 - Docker 
 - Javascript
-- PostgreSQL
-- MongoDB
-- FastAPI
-- AWS <br />
+- Exploitation
+- MITRE ATT@CK
+- Scripting & Automation
+-  <br />
 
-## 2023 Goals: 🤓
+## 2024 Goals: 🤓
  
 ```diff
-- Advent of Code
-- 100 Days of Coding 
-- Complete 2 apps/games 
-- Software Engineer job 
-- Participate in 2 hackathons
-- Attend Software Development/Cybersecurity event
+- SANS Conference
+- Complete HTB pathway 
+- Web App certification 
+- Start business 
+- DefCon
 ```
 
 
